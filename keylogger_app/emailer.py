@@ -1,7 +1,7 @@
 import smtplib
 from email.mime.text import MIMEText
 import datetime
-import os
+# import os
 import time
 from tkinter import messagebox
 
